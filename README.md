@@ -94,6 +94,32 @@ Known issue, currently no fixes are available.
 
 You must play the song all the way to the end without skipping to get accurate note count. 
 
+
+## How is the level calculated?
+#### Answer:
+The following is the rule it follows: 
+```
+     if (mInfo.iNoteCount < 80000) {RenderStatusLine("Level:", "EZ Lv.1");}
+else if (mInfo.iNoteCount < 100000) {RenderStatusLine("Level:", "EZ Lv.2");}
+else if (mInfo.iNoteCount < 200000) {RenderStatusLine("Level:", "EZ Lv.3");}
+else if (mInfo.iNoteCount < 400000) {RenderStatusLine("Level:", "EZ Lv.4");}
+else if (mInfo.iNoteCount < 600000) {RenderStatusLine("Level:", "EZ Lv.5");}
+else if (mInfo.iNoteCount < 800000) {RenderStatusLine("Level:", "HD Lv.6");}
+else if (mInfo.iNoteCount < 1000000) {RenderStatusLine("Level:", "HD Lv.7");}
+else if (mInfo.iNoteCount < 2000000) {RenderStatusLine("Level:", "HD Lv.8");}
+else if (mInfo.iNoteCount < 4000000) {RenderStatusLine("Level:", "HD Lv.9");}
+else if (mInfo.iNoteCount < 6000000) {RenderStatusLine("Level:", "HD Lv.10");}
+else if (mInfo.iNoteCount < 8000000) {RenderStatusLine("Level:", "IN Lv.11");}
+else if (mInfo.iNoteCount < 10000000) {RenderStatusLine("Level:", "IN Lv.12");}
+else if (mInfo.iNoteCount < 20000000) {RenderStatusLine("Level:", "IN Lv.13");}
+else if (mInfo.iNoteCount < 40000000) {RenderStatusLine("Level:", "IN Lv.14");}
+else if (mInfo.iNoteCount < 60000000) {RenderStatusLine("Level:", "IN Lv.15");}
+else if (mInfo.iNoteCount < 80000000) {RenderStatusLine("Level:", "AT Lv.16");}
+else if (mInfo.iNoteCount < 100000000) {RenderStatusLine("Level:", "AT Lv.17");}
+else if (mInfo.iNoteCount < 200000000) {RenderStatusLine("Level:", "AT Lv.18");}
+else if (mInfo.iNoteCount < 400000000) {RenderStatusLine("Level:", "SP Lv.?");}
+```
+
 ## Future updates? 
 #### Answer:
 This project will not be updating very frequently, unless very critical bugs are found. 
