@@ -72,31 +72,31 @@ To assign an accelerator for open file, add "VK_O, 40158, CONTROL, VIRTKEY" to t
 To assign an accelerator for close file, add "VK_W, 40070, ALT, VIRTKEY" to the last line. 
 
 (Ctrl+W has already been used for another option, so you have to assign Alt+W or other keys for close file instead. )
-####
+####.
 
 #### Where's the show custom keys function? 
 #### Answer: 
 It's gone, use move and zoom instead. 
 
 Because very few people use that thing in black midi. 
-####
+####.
 
 #### Can I have the modified source code? 
 #### Answer: 
 It's not accessible publicly, if you need it please contact me through email: happy_mimimix@163.com
-####
+####.
 
 #### The note count become inaccurate when skipping! 
 #### Answer: 
 Known issue, currently no fixes are available. 
 
 You must play the song all the way to the end without skipping to get accurate note count. 
-####
+####.
 #### Future updates? 
 #### Answer:
 This project will not be updating very frequently, unless very critical bugs are found. 
-####
-####
+####.
+####.
 
 ## Project changelog: 
 2023/01/22 v1.3.4 Initial release. 
