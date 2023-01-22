@@ -73,6 +73,11 @@ Because very few people use that thing in black midi.
 #### Answer: 
 It's not accessible publicly, if you need it please contact me through email: happy_mimimix@163.com
 
+#### The note count become inaccurate when skipping! 
+#### Answer: 
+Known issue, currently no fixes are available. 
+You must play the song all the way to the end without skipping to get accurate note count. 
+
 #### Future updates? 
 #### Answer:
 This project will not be updating very frequently, unless very critical bugs are found. 
