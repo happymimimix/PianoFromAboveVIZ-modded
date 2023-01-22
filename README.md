@@ -20,7 +20,7 @@ original repo: https://github.com/khang06/PianoFromAbove
 #### Answer: 
 Try adding them yourself using resource hacker. (Download: http://angusj.com/resourcehacker/)
 
-Open the executable file with resource hacker, go to accelerators.
+Open the executable file with resource hacker and go to accelerators.
 
 ![image](https://user-images.githubusercontent.com/107282563/213915043-c289d4a2-915b-4363-8f8c-0a195f529678.png)
 
