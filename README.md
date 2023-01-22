@@ -34,6 +34,7 @@ Reminder: Never add anything beyond the "}" symbol!!!
 
 
 Here's a list of available functions and their matching ID: 
+```
 ID_PLAY_PLAY                    40005
 ID_PLAY_PLAYPAUSE               40045
 ID_PLAY_PAUSE                   40056
@@ -63,6 +64,7 @@ ID_VIEW_MOVEANDZOOM             40109
 ID_VIEW_RESETMOVEANDZOOM        40115
 ID_HELP_ABOUT                   40152
 ID_VIEW_SETWINDOWSIZE           40173
+```
 
 For example: 
 To assign an accelerator for open file, add "VK_O, 40158, CONTROL, VIRTKEY" to the last line. (don't include the quotation marks! )
