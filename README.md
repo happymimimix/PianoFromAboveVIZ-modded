@@ -69,9 +69,9 @@ ID_VIEW_SETWINDOWSIZE           40173
 ```
 
 #### For example: 
-To assign an accelerator for open file, add "VK_O, 40158, CONTROL, VIRTKEY" to the last line. (don't include the quotation marks! )
+To assign an accelerator for open file, add `VK_O, 40158, CONTROL, VIRTKEY` to the last line. 
 
-To assign an accelerator for close file, add "VK_W, 40070, ALT, VIRTKEY" to the last line. 
+To assign an accelerator for close file, add `VK_W, 40070, ALT, VIRTKEY` to the last line. 
 
 (Ctrl+W has already been used for another option, so you have to assign Alt+W or other keys for close file instead. )
 
