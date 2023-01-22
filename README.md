@@ -14,11 +14,13 @@ original repo: https://github.com/khang06/PianoFromAbove
 
 #### Hope you like my work! :)
 
-## FAQ:
-#### You removed many useful accelators like Ctrl+O and others, I still need them! 
+# FAQ:
+## You removed many useful accelators like Ctrl+O and others, I still need them! 
 
 #### Answer: 
-Try adding them yourself using resource hacker. (Download: http://angusj.com/resourcehacker/)
+I removed them because very few people used them and they make the software very complex. 
+
+If needed, try adding them yourself using resource hacker. (Download: http://angusj.com/resourcehacker/)
 
 Open the executable file with resource hacker and go to accelerators.
 
@@ -72,31 +74,30 @@ To assign an accelerator for open file, add "VK_O, 40158, CONTROL, VIRTKEY" to t
 To assign an accelerator for close file, add "VK_W, 40070, ALT, VIRTKEY" to the last line. 
 
 (Ctrl+W has already been used for another option, so you have to assign Alt+W or other keys for close file instead. )
-####.
 
-#### Where's the show custom keys function? 
+
+## Where's the show custom keys function? 
 #### Answer: 
 It's gone, use move and zoom instead. 
 
 Because very few people use that thing in black midi. 
-####.
 
-#### Can I have the modified source code? 
+
+## Can I have the modified source code? 
 #### Answer: 
 It's not accessible publicly, if you need it please contact me through email: happy_mimimix@163.com
-####.
 
-#### The note count become inaccurate when skipping! 
+
+## The note count become inaccurate when skipping! 
 #### Answer: 
 Known issue, currently no fixes are available. 
 
 You must play the song all the way to the end without skipping to get accurate note count. 
-####.
-#### Future updates? 
+
+## Future updates? 
 #### Answer:
 This project will not be updating very frequently, unless very critical bugs are found. 
-####.
-####.
 
-## Project changelog: 
+
+# Project changelog: 
 2023/01/22 v1.3.4 Initial release. 
