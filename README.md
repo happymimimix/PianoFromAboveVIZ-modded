@@ -121,9 +121,12 @@ This project will not be updating very frequently, unless very critical bugs are
 
 
 # Project changelog: 
-```
 2023/01/22 v1.3.4 Initial release. 
+
 2023/01/26 v1.3.7 Fixed issues with negative playback speed.
+
 2023/01/27 Source code is now 100% open and accessible by everyone! YAY
+
 Comming soon at 2023/01/30 VIZ_Animator - A tool that can modify the variable values in memory accroding to a pre-written script and animate your piano from above! 
-```
+
+
