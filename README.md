@@ -83,11 +83,6 @@ It's gone, use move and zoom instead.
 Because very few people use that thing in black midi. 
 
 
-## Can I have the modified source code? 
-#### Answer: 
-It's not accessible publicly, if you need it please contact me through email: happy_mimimix@163.com
-
-
 ## The note count become inaccurate when skipping! 
 #### Answer: 
 Known issue, currently no fixes are available. 
@@ -127,3 +122,5 @@ This project will not be updating very frequently, unless very critical bugs are
 
 # Project changelog: 
 2023/01/22 v1.3.4 Initial release. 
+2023/01/26 v1.3.7 Fixed issues with negative playback speed.
+2023/01/27 Source code is now 100% open and accessible by everyone! YAY
