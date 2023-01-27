@@ -131,12 +131,12 @@ This project will not be updating very frequently, unless very critical bugs are
 VIZ_Animator - A tool that can modify the variable values in memory accroding to a pre-written script and animate your piano from above! 
 
 The script will be something looks like the following: 
-'''
+```
 int Time = 0x3746ADF3E;
 int Zoom = 0xAF24ED786;
 if (Memory.Read(Time) >= 164827400){
 Memory.Write(Zoom, 0.4);
 }
-'''
+```
 
 Will be something simillar but not exactly. 
