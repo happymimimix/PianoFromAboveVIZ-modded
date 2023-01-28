@@ -127,6 +127,8 @@ This project will not be updating very frequently, unless very critical bugs are
 
 2023/01/27 Source code is now 100% open and accessible by everyone! YAY
 
+2023/01/28 v2.1.3 Fixed issues with the stop shortcut, removed some unused varibles and functions. Reduced the program size by 1KB. 
+
 # Comming soon at 2023/01/30: 
 VIZ_Animator - A tool that can modify the variable values in memory accroding to a pre-written script and animate your piano from above! 
 
