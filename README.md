@@ -129,7 +129,9 @@ This project will not be updating very frequently, unless very critical bugs are
 
 2023/01/28 v2.1.3 Fixed issues with the stop shortcut, removed some unused varibles and functions. Reduced the program size by 1KB. 
 
-# Comming soon at 2023/01/30: 
+2023/03/09 v2.1.4 Small update, fixed crash when draging progressbar towards the end. 
+
+# Comming soon at 2023/03/10: 
 VIZ_Animator - A tool that can modify the variable values in memory accroding to a pre-written script and animate your piano from above! 
 
 The script will be something looks like the following: 
