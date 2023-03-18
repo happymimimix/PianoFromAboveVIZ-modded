@@ -131,16 +131,6 @@ This project will not be updating very frequently, unless very critical bugs are
 
 2023/03/09 v2.1.4 Small update, fixed crash when draging progressbar towards the end. 
 
-# Comming soon at 2023/03/10: 
-VIZ_Animator - A tool that can modify the variable values in memory accroding to a pre-written script and animate your piano from above! 
+2023/03/18 v2.1.5 Small optimization made to get prepared for VIZ Animator. 
 
-The script will be something looks like the following: 
-```
-int Time = 0x3746ADF3E;
-int Zoom = 0xAF24ED786;
-if (Memory.Read(Time) >= 164827400){
-Memory.Write(Zoom, 0.4);
-}
-```
-
-Will be something simillar but not exactly. 
+2023/03/18 Incomplete VizAnimator source code uploaded.
