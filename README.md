@@ -115,11 +115,6 @@ else if (mInfo.iNoteCount < 200000000) {RenderStatusLine("Level:", "AT Lv.18");}
 else if (mInfo.iNoteCount < 400000000) {RenderStatusLine("Level:", "SP Lv.?");}
 ```
 
-## Future updates? 
-#### Answer:
-This project will not be updating very frequently, unless very critical bugs are found. 
-
-
 # Project changelog: 
 2023/01/22 v1.3.4 Initial release. 
 
@@ -131,6 +126,7 @@ This project will not be updating very frequently, unless very critical bugs are
 
 2023/03/09 v2.1.4 Small update, fixed crash when draging progressbar towards the end. 
 
-2023/03/18 v2.1.5 Small optimization made to get prepared for VIZ Animator. 
+2023/03/18 v2.1.5 Small optimization made to get prepared for VIZ Animator.  
+(Sorry that I forget to change the version number so it will still show 2.1.4 when you open it. )
 
 2023/03/18 Incomplete VizAnimator source code uploaded.
