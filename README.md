@@ -116,7 +116,7 @@ else if (mInfo.iNoteCount < 400000000) {RenderStatusLine("Level:", "SP Lv.?");}
 ```
 
 # Project changelog: 
-2023/01/22 v1.3.4 Initial release. 
+2023/01/22 v1.3.4 Initial release. (Closed source)
 
 2023/01/26 v1.3.7 Fixed issues with negative playback speed.
 
