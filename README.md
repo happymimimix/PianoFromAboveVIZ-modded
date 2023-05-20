@@ -130,3 +130,5 @@ else if (mInfo.iNoteCount < 400000000) {RenderStatusLine("Level:", "SP Lv.?");}
 (Sorry that I forget to change the version number so it will still show 2.1.4 when you open it. )
 
 2023/03/18 Incomplete VizAnimator source code uploaded.
+
+2023/5/20 v2.1.6 Fixed issues with NPS not showing correctly. 
