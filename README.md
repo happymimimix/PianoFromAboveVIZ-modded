@@ -1,4 +1,6 @@
 # PianoFromAboveVIZ-modded
+## Notice: This project is now called Piano FX Pro: https://github.com/happymimimix/Piano-FX-Pro
+
 A modification of khang06's PFAVIZ. 
 
 original repo: https://github.com/khang06/PianoFromAbove
